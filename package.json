@@ -1,6 +1,9 @@
 {
   "name": "woo-num-nest",
   "version": "0.0.1",
+  "bin": {
+    "numnest": "./main.js"
+  },
   "description": "",
   "main": "main.js",
   "scripts": {
